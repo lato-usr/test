@@ -1,1 +1,1 @@
-function bar(){}
+function bar() {}
